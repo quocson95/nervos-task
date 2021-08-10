@@ -13,4 +13,4 @@
 
 ### 3-A link to the GitHub repository 
 
-<a href="https://github.com/quocson95/nervos-force-bridge">GITHUB PROJECT LINK</a>
+<a href="https://github.com/quocson95/nervos-force-bridge-">GITHUB PROJECT LINK</a>
